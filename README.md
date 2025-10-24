@@ -1,5 +1,5 @@
 <!-- ![banner](https://user-images.githubusercontent.com/bannerlink.png) -->
-# Hi there! My name is Théo – aka 👋
+# Hi there! My name is Théo – aka @theogayar 👋
 
 ## Developer | Maker | 3D Printing Enthusiast | Student
 
