@@ -10,7 +10,7 @@
 
 <!-- ### Connect with me: mail or other to add in the future -->
 
-### What distros do I use the most 
+### What distros do I use the most
 
 I manage machines on multiple distros. So far, my favorites are the following :
 
