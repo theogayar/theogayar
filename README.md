@@ -3,11 +3,10 @@
 
 ## Developer | Maker | 3D Printing Enthusiast | Student
 
-- 💡 I’m always learning — exploring new tools, technologies, and ideas in computer science and IT.
-- 🧠 I love sharing practical tips and tricks to make coding and problem-solving easier for everyone.
-- 🎯 2025 Goal: Contribute more to open-source projects and collaborate with the community.
-- 🚀 I’m looking to connect with motivated people who share a passion for building and creating amazing things together.
-- 📫 Want to connect? Feel free to reach out — I’ll get back to you as soon as I can!!
+- I’m always learning — exploring new tools, technologies, and ideas in computer science and IT.
+- I love sharing practical tips and tricks to make coding and problem-solving easier for everyone.
+- 2025 Goal: Contribute more to open-source projects and collaborate with the community.
+- Want to connect? Feel free to reach out — I’ll get back to you as soon as I can!! I’m always looking forward to meet with motivated people who share a passion for building and creating stuff.
 
 <!-- ### Connect with me: mail or other to add in the future -->
 
@@ -31,8 +30,8 @@ I manage machines on multiple distros. So far, my favorites are the following :
 ### What languages do I speak
 
 - 🇫🇷 **French** — Native & proud 🥖  
-- 🇺🇸 **English (US)** — My trusty sidekick ✨  
-- 🇩🇪 **German** — Just enough to order a beer 🍺😄
+- 🇺🇸 **English (US)** — Fluent, used everyday
+- 🇩🇪 **German** — Just enough to order a beer
 
 ### Tools and Languages
 
@@ -67,17 +66,17 @@ I manage machines on multiple distros. So far, my favorites are the following :
 
 ---
 
-### 📦 My Latest Projects
+### My Latest Projects 📦
 
 My latest adventures in making, tinkering, and coding include:
 
-- 🛠️ **Voron 2.4 (350mm Siboor Kit)** — Bought from someone who realized it *“wasn’t their thing”* (lucky me 😄). Refurbished, upgraded, and now happily printing ABS for hours on end.  
-- ⚙️🔩 **Anet A8 → Hypercube Evo → Voron Trident** — A long evolutionary journey! Currently serving as the testbed for a custom **KIAUH** branch I’m developing.
-- 🌊 **Autonomous Pool Cover Controller** — Fully automated, coded in **C**. I’ll release the code and schematics once it’s polished and ready.  
-- 🧱 **Company Website (WIP)** — A professional website I started during an internship. Still in progress, but shaping up nicely!
+- **Voron 2.4 (350mm Siboor Kit)** — Bought from someone who realized it *“wasn’t their thing”* (lucky me 😄). Refurbished, upgraded, and now happily printing ABS for hours on end.  
+- **Anet A8 → Hypercube Evo → Voron Trident** — A long evolutionary journey! Currently serving as the testbed for a custom **KIAUH** branch I’m developing.
+- **Autonomous Pool Cover Controller** — Fully automated, coded in **C**. I’ll release the code and schematics once it’s polished and ready.  
+- **Company Website (WIP)** — A professional website I started during an internship. Still in progress, but shaping up nicely!
 
 ---
 
-### ❤️ Become a Sponsor or Supporter?
+### Become a Sponsor or Supporter? ❤️
 
-One day I might be confident enough to add a shiny “Sponsor” button here. Until then, I’m collecting experience points and debugging life. 🧠💡
+One day I might be confident enough to add a shiny “Sponsor” button here. Until then, I’m collecting experience points and debugging life.
