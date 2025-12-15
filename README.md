@@ -14,7 +14,7 @@
 
 I manage machines on multiple distros. So far, my favorites are the following :
 
-<a href="https://www.fedoraproject.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Fedora_icon_(2021).svg" alt="fedora" align="left" width="70" height="70"/> </a>
+<a href="https://www.fedoraproject.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" align="left" width="70" height="70"/> </a>
 
 <a href="https://kubuntu.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_968/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fd92401b4-kubuntu-logo.svg" alt="kubuntu" align="left" width="70" height="70"/> </a>
 
