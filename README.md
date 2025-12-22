@@ -24,19 +24,20 @@ I manage machines on multiple distros. So far, my favorites are the following :
 
 <a href="https://www.truenas.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/53482242?s=280&v=4" alt="truenas" align="left" height="75"/> </a>
 
+<br />
+
 Yes I'm also familiar with Ubuntu (as my daily for over a year), and very familiar with Windows, as I used it since being allowed to touch a computer. However, I removed them from my machines following recent developments in their respective distributor's privacy policies.
 
 <br />
 <br />
-<br />
 
-### What languages do I speak
+### Languages
 
 - 🇫🇷 **French** — Native & proud 🥖  
 - 🇺🇸 **English (US)** — Fluent, used everyday
 - 🇩🇪 **German** — Just enough to order a beer
 
-### Tools and Languages
+### Tools and Software
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual-studio-code" align="left" width="26" height="26"/> </a>
 
@@ -46,9 +47,9 @@ Yes I'm also familiar with Ubuntu (as my daily for over a year), and very famili
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" align="left" width="26" height="26"/>
 
-<!-- <a href="https://www.sqlite.org/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" align="left" width="26" height="26"/> </a> -->
+<a href="https://www.sqlite.org/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" align="left" width="26" height="26"/> </a>
 
-<!-- <a href="https://www.mysql.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="left" width="26" height="26"/> </a> -->
+<a href="https://www.mysql.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="left" width="26" height="26"/> </a>
 
 <!-- <a href="https://www.php.net" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" align="left" width="26" height="26"/> </a> -->
 
@@ -69,7 +70,7 @@ Yes I'm also familiar with Ubuntu (as my daily for over a year), and very famili
 
 ---
 
-### My Latest Projects 📦
+### Latest Projects 📦
 
 My latest adventures in making, tinkering, and coding include:
 
