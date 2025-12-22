@@ -10,13 +10,13 @@
 
 <!-- ### Connect with me: mail or other to add in the future -->
 
-### What distros do I use the most
+### Linux distributions
 
 I manage machines on multiple distros. So far, my favorites are the following :
 
 <a href="https://www.fedoraproject.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" align="left" width="70" height="70"/> </a>
 
-<a href="https://kubuntu.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_968/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fd92401b4-kubuntu-logo.svg" alt="kubuntu" align="left" width="70" height="70"/> </a>
+<!-- <a href="https://kubuntu.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_968/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fd92401b4-kubuntu-logo.svg" alt="kubuntu" align="left" width="70" height="70"/> </a> -->
 
 <a href="https://https://www.debian.org" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.debian.org/logos/hexagonal.png" alt="debian" align="left" height="75"/> </a>
 
@@ -24,6 +24,7 @@ I manage machines on multiple distros. So far, my favorites are the following :
 
 <a href="https://www.truenas.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/53482242?s=280&v=4" alt="truenas" align="left" height="75"/> </a>
 
+Yes I'm also familiar with Ubuntu (as my daily for over a year), and very familiar with Windows, as I used it since being allowed to touch a computer. However, I removed them from my machines following recent developments in their respective distributor's privacy policies.
 
 <br />
 <br />
