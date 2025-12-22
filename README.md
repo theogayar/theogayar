@@ -31,8 +31,6 @@ I manage instances on multiple distros. So far, my favorites are the following :
 
 Yes I'm also familiar with Ubuntu (as my daily for over a year), and very familiar with Windows, as I used it since being allowed to touch a computer. However, I removed them from my machines following recent developments in their respective distributor's privacy policies.
 
-<br />
-
 ### Languages
 
 - 🇫🇷 **French** — Native & proud 🥖  
