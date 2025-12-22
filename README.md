@@ -12,7 +12,7 @@
 
 ### Linux distributions
 
-I manage machines on multiple distros. So far, my favorites are the following :
+I manage instances on multiple distros. So far, my favorites are the following :
 
 <a href="https://www.fedoraproject.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" align="left" width="70" height="70"/> </a>
 
@@ -25,10 +25,12 @@ I manage machines on multiple distros. So far, my favorites are the following :
 <a href="https://www.truenas.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/53482242?s=280&v=4" alt="truenas" align="left" height="75"/> </a>
 
 <br />
+<br />
+<br />
+<br />
 
 Yes I'm also familiar with Ubuntu (as my daily for over a year), and very familiar with Windows, as I used it since being allowed to touch a computer. However, I removed them from my machines following recent developments in their respective distributor's privacy policies.
 
-<br />
 <br />
 
 ### Languages
